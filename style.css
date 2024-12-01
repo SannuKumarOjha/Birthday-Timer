@@ -107,3 +107,10 @@ li span {
 .span-text {
     display: none;
 }
+
+.wishes {
+    background: #121FCF;
+    background: linear-gradient(to right, #121FCF 21%, #FF2929 44%, #3705FF 50%, #CF1512 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
