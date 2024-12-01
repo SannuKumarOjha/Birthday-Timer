@@ -36,6 +36,7 @@
       if (distance < 0) {
         document.getElementById("headline").innerText =
           "Happy Birthday Pooja❤️";
+         document.getElementById("box").style.display = "none" ;
         document.getElementById("countdown").style.display = "none";
         document.getElementById("content").style.display = "block";
         clearInterval(x);
