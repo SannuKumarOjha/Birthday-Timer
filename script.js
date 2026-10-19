@@ -35,7 +35,7 @@
 
       if (distance < 0) {
         document.getElementById("headline").innerText =
-          "Happy Birthday Pooja❤️";
+          "Happy Birthday Khushboo(Buchi😍)❤️";
          document.getElementById("box").style.display = "none" ;
         document.getElementById("countdown").style.display = "none";
         document.getElementById("content").style.display = "block";
